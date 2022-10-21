@@ -5,7 +5,8 @@ name: Python application
 
 on:
   push:
-    branches: [ "pwd_uwe" ]
+    branches:  
+      - "pwd_uwe"
 
 permissions:
   contents: read
